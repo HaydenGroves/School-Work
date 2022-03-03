@@ -1,0 +1,6 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\bin\Debug\FineTuning.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\bin\Debug\FineTuning.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\bin\Debug\FineTuning.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\obj\Debug\FineTuning.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\obj\Debug\FineTuning.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\FineTuning\FineTuning\obj\Debug\FineTuning.pdb

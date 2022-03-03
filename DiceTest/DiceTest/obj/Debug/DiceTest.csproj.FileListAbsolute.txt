@@ -1,0 +1,9 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\bin\Debug\DiceTest.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\bin\Debug\DiceTest.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\bin\Debug\DiceTest.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\obj\Debug\DiceTest.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\obj\Debug\DiceTest.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\obj\Debug\DiceTest.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2018\X-SITE\H\HAYDENGROVES\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\bin\Debug\DiceTest.exe.config
+\\ECFLE41\STU-Ms-A-M$\SEPT-2018\X-SITE\H\HAYDENGROVES\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\obj\Debug\DiceTest.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2018\X-SITE\H\HAYDENGROVES\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\DiceTest\DiceTest\obj\Debug\DiceTest.pdb

@@ -1,0 +1,6 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\bin\Debug\Movement.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\bin\Debug\Movement.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\bin\Debug\Movement.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\obj\Debug\Movement.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\obj\Debug\Movement.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Movement\Movement\obj\Debug\Movement.csprojResolveAssemblyReference.cache
