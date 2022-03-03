@@ -1,0 +1,9 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
