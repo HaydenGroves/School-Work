@@ -1,0 +1,6 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\bin\Debug\Replacement.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\bin\Debug\Replacement.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\bin\Debug\Replacement.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\obj\Debug\Replacement.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\obj\Debug\Replacement.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\Replacement\Replacement\obj\Debug\Replacement.pdb
