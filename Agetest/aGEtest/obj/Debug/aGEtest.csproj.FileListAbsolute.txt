@@ -1,0 +1,9 @@
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\bin\Debug\aGEtest.exe.config
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\bin\Debug\aGEtest.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\bin\Debug\aGEtest.pdb
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.Form1.resources
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.Properties.Resources.resources
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.csproj.GenerateResource.Cache
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.exe
+M:\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets\aGEtest\aGEtest\obj\Debug\aGEtest.pdb
