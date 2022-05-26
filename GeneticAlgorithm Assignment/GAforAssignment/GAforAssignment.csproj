@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\..\..\..\Downloads\TSP GA\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Genetic">
+      <HintPath>..\..\..\..\Downloads\TSP GA\Debug\AForge.Genetic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
