@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<!-- FA simple default response. -->
+<category>
+	<pattern>*</pattern>
+	<template>
+			<li>I'm sorry I don't understand</li>
+	</template>
+</category>
+
+	<category>
+		<pattern>HI</pattern>
+		<template>
+			<random>
+				<li>Hi!</li>
+				<li>Hello!</li>
+			</random>
+			<random>
+				<li> How may I help you today?</li>
+				<li> What do you need help with today?</li>
+				<li> How can I help?</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HELLO</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HELLO *</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HELLO</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HELLO *</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HI *</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HI *</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HI</pattern>
+		<template>
+			<srai>HI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HELP</pattern>
+		<that> NICE TO MEET YOU WHAT CAN I DO FOR YOU </that>
+		<template>
+			<li>This bot exists to provide relevant information to you about saving money on electricity and providing information about schemes you can access.</li>
+			<li>There are 6 areas we can help you with:</li>
+			1. Financial Support
+			2. Financial Support from energy companies
+			3. Financial Support from your local Council
+			4. Tips to save money on electricity
+			5. Tips to save money on gas
+			6. Where to go for further advice
+			If you want to find out more about any of these, Enter the corresponding number
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HELP *</pattern>
+		<template>
+			<srai>HELP</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* HELP</pattern>
+		<template>
+			<srai>HELP</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HELP *</pattern>
+		<template>
+			<srai>HELP</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>*</pattern>
+		<that>
+			THIS BOT EXISTS TO PROVIDE RELEVANT INFORMATION TO YOU ABOUT SAVING MONEY ON ELECTRICITY AND PROVIDING INFORMATION ABOUT SCHEMES YOU CAN ACCESS
+			THERE ARE 6 AREAS WE CAN HELP YOU WITH
+			1 FINANCIAL SUPPORT
+			2 FINANCIAL SUPPORT FROM ENERGY COMPANIES
+			3 FINANCIAL SUPPORT FROM YOUR LOCAL COUNCIL
+			4 TIPS TO SAVE MONEY ON ELECTRICITY
+			5 TIPS TO SAVE MONEY ON GAS
+			6 WHERE TO GO FOR FURTHER ADVICE
+			IF YOU WANT TO FIND OUT MORE ABOUT ANY OF THESE ENTER THE CORRESPONDING NUMBER
+		</that>
+		<template>
+			<think>
+				<set name="value">
+					<star/>
+				</set>
+			</think>
+			<condition name="value">
+				<li value="1"> Very well, what do you need to know about <set name="topic">Financial Support</set>?</li>
+				<li value="2"> Very well, what do you need to know about <set name="topic">Financial Support From Energy Companies</set>?</li>
+				<li value="3"> Very well, what do you need to know about <set name="topic">Financial Support From the local Council</set>?</li>
+				<li value="4"> Very well, what do you need to know about <set name="topic">Saving money on electricity</set>?</li>
+				<li value="5"> Very well, what do you need to know about <set name="topic">Saving money on gas</set>?</li>
+				<li value="6"> Very well, what do you need to know about <set name="topic">Further Advice</set>?</li>
+        <li value="*">I'm sorry, what do you mean by <star/>? do you think you could rephrase?</li>
+			</condition>
+		</template>
+	</category>
+</aiml>

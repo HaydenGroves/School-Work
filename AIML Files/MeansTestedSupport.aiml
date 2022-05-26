@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Author: -->
+<aiml>
+  <!--Financial Support - Means Tested  -->
+
+	<category>
+		<pattern>FINANCIAL SUPPORT</pattern>
+		<template>
+			We can provide you with <set name ="topic">Financial Support</set>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* FINANCIAL SUPPORT</pattern>
+		<template>
+			<srai>FINANCIAL SUPPORT</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>FINANCIAL SUPPORT *</pattern>
+		<template>
+			<srai>FINANCIAL SUPPORT</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>* FINANCIAL SUPPORT *</pattern>
+		<template>
+			<srai>FINANCIAL SUPPORT</srai>
+		</template>
+	</category>
+
+	<topic name = "Financial Support">
+		<category>
+			<pattern>SUPPORT</pattern>
+			<template>
+				There are schemes available to help those stuggling to pay their energy bills:
+				1. Warm Home Discount Scheme.
+				2. Winter Fuel Payment Scheme.
+				3. Cold Weather Payment Scheme.
+				to get further information on these schemes, ask me about them.
+			</template>
+		</category>
+
+		<category>
+			<pattern>WARM HOME</pattern>
+			<template>
+				<li>The warm home discount scheme is a scheme where households are able to get up to £140 off their electricity bill.</li>
+		        <li>This scheme is available for households that are either on a pension or on a low income. for more information you can visit: https://www.gov.uk/the-warm-home-discount-scheme </li>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* WARM HOME</pattern>
+			<template>
+				<srai>WARM HOME</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>WARM HOME *</pattern>
+			<template>
+				<srai>WARM HOME</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* WARM HOME *</pattern>
+			<template>
+				<srai>WARM HOME</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>WINTER FUEL</pattern>
+			<template>
+				<li>The Winter fuel payment scheme help to pay for fuel during winter.</li>
+				<li>This scheme is available to those born before 26th of September 1955. To find out more visit: https://www.gov.uk/winter-fuel-payment </li>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* WINTER FUEL *</pattern>
+			<template>
+				<srai>WINTER FUEL</srai>
+			</template>
+		</category>
+		
+		<category>
+			<pattern>* WINTER FUEL</pattern>
+			<template>
+				<srai>WINTER FUEL</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>WINTER FUEL *</pattern>
+			<template>
+				<srai>WINTER FUEL</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>COLD WEATHER</pattern>
+			<template>
+				<li>The Cold Weather Payment scheme provides households with one-off payments to help pay for increased heating costs.</li>
+				<li>Households recieve a payment everytime the temperature drops below a certain value for a set period of time.</li>
+				<li>This scheme is available to those on pension credit, income support, income-based job seeker's allowance, income related employment and support allowance and universal credit.</li>
+				<li>For more information, visit: https://www.gov.uk/cold-weather-payment </li>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* COLD WEATHER *</pattern>
+			<template>
+				<srai>COLD WEATHER</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>COLD WEATHER *</pattern>
+			<template>
+				<srai>COLD WEATHER</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* COLD WEATHER</pattern>
+			<template>
+				<srai>COLD WEATHER</srai>
+			</template>
+		</category>
+	</topic>
+  
+</aiml>

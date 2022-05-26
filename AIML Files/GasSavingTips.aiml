@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+	<topic name="Saving money on gas">
+
+		<cateogry>
+			<pattern>SUPPORT</pattern>
+			<template>
+				There are plenty of ways to save money on gas bills Would you like me to tell you some
+			</template>
+		</cateogry>
+
+		<category>
+			<pattern>YES</pattern>
+			<that>There are plenty of ways to save money on gas bills Would you like me to tell you some</that>
+			<template>
+				As gas bills are rising, it is good to know how to save money on gas bills.
+				1. Controlling the temperature of central heating - By reducing the temperature by just one degree, the average household can save up to 10% per year.
+				Obviously, you can set the temperature even lower, but you should always keep yours and others comfort in mind.
+				
+				2. Avoid using heating - Money can be saved by only using heating when necessasry. To combat the cold you can put on extra layers or move to warmer areas of your house.
+				
+				3. Control radiator temperatures - If you set a radiator temperature too high, it will take much longer to heat up without providing much extra benefit.
+				By controlling the temeperatures of your radiators you are able to save gas whilst still staying warm.
+				
+				4. Follow proper heating practices - You can keep your hose warm by following proper practices, such as moving furniture away from radiators or tucking curtains behind radiators.
+				Another good practice is to heat the house once during the evening, then avoid turning the heating on any later in the night. If you follow these practices, heat should stay in your house.
+				
+				5. Alternatives to using heating - There are ways you can go about heating your home or yourself without the need of heating such as a woodburning fireplace or using a hot water bottle.
+				
+			</template>
+		</category>
+
+
+		<category>
+			<pattern>* SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* SUPPORT</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+		
+	</topic>
+</aiml>

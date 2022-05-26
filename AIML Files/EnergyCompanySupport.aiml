@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Author: -->
+<aiml>
+  <topic name ="Financial Support From Energy Companies">
+    <category>
+      <pattern>SUPPORT</pattern>
+      <template>
+        <li>Through the government, energy companies can offer grants to those that need help paying for electricity and gas bills.</li>
+        <li>Each supplier has a different way to go about this, and so here are the different approaches that can be taken:</li>
+        <li>British Gas Energy Trust: https://britishgasenergytrust.org.uk/grants-available/ </li>
+        <li>Scottish Power Hardship Fund: https://community.scottishpower.co.uk/t5/Extra-Help/Hardship-Fund/ta-p/53 </li>
+        <li>E.ON Energy Fund: https://www.eonenergy.com/more-for-your-home/energy-fund.html </li>
+        <li>EDF Energy Support Fund: https://www.edfenergy.com/for-home/help-centre/faq/extra-support-when-you-need-it?steps=23147#chapter-23146-6 </li>
+        <li>Bulb Energy Fund: https://citizensadviceplymouth.org.uk/bulb-energy/ </li>
+        <li>If you are unable to get support from any of these companies, you can apply for a grant from British Gas, regardless if you are a customer or not.</li>
+      </template>
+    </category>
+
+    <category>
+      <pattern>* SUPPORT *</pattern>
+      <template>
+        <srai>SUPPORT</srai>
+      </template>
+    </category>
+  
+  <category>
+      <pattern>* SUPPORT</pattern>
+      <template>
+        <srai>SUPPORT</srai>
+      </template>
+    </category>
+
+<category>
+      <pattern>SUPPORT *</pattern>
+      <template>
+        <srai>SUPPORT</srai>
+      </template>
+    </category>
+  </topic>
+  
+</aiml>

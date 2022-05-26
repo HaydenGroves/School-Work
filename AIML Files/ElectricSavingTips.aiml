@@ -1,0 +1,66 @@
+<aiml>
+	<topic name ="Saving money on electricity">
+
+		<category>
+			<pattern>SUPPORT</pattern>
+			<template>
+				I can offer you a variety of tips and tricks on reducing energy bills and saving electricity Would you like me to tell you them
+			</template>
+		</category>
+
+		<category>
+			<pattern>YES</pattern>
+			<that>
+				I can offer you a variety of tips and tricks on reducing energy bills and saving electricity Would you like me to tell you them
+			</that>
+			<template>
+				Here are some tips you can use to save electricity and money:
+				1. Switch Supplier or Tariff - an expensive tariff or supplier will cost you more if you choose not to look for a cheaper supplier.
+				There are plenty of websites on the internet that can help you find cheaper energy suppliers and tariffs, such as moneysupermarket.com and switch.which.co.uk.
+				These sites help you to find the cheapest supplier and offer you a variety of companies to choose from and they allow you to compare these suppliers to your current one.
+		
+				2. Check meters and heaters are set up properly - Make sure that your meters and heaters are set up properly so that you aren't wasting energy.
+				For instance, if the heaters are on during the day when no one is home, you end up wasting energy.
+				
+				3. Making home improvements - making home improvments such as upgrading appliances to their green versions or installing improvements in your home such as
+				new insulation or double glazed windows. smalls savings can build up and these improvements will save you a lot of money in the long run
+				
+				4. Invest into green solutions - although the initial cost will be high, installing green technology into your home such as solar panels or a biomass generator.
+				by installing this techonology you lessen your reliance on the national grid, which makes your energy bills much cheaper. Not only do you lower your energy bills,
+				but you can also sell excess electricity and you avoid being screwed over by price hikes from suppliers.
+			</template>
+		</category>
+
+		<category>
+			<pattern>NO</pattern>
+			<that>I can offer you a variety of tips and tricks on reducing energy bills and saving electricity Would you like me to tell you them</that>
+			<template>
+				Fair enough.
+			</template>
+		</category>
+		
+		<category>
+			<pattern>* SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* SUPPORT</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+	</topic>
+	
+	
+</aiml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<!-- FA simple default response. -->
+
+	<topic name ="Financial Support From the local Council">
+
+		<category>
+			<pattern>SUPPORT</pattern>
+			<template>
+				<li>Each local council will have different ways to support people who are struggling to pay energy bills.</li>
+				<li>However, there is support that any council can offer you to help you with your energy bills.</li>
+				<li>Any council offers a tax rebate for anyone in the council tax bands from A to D. you can get up to £150 back from the council which can be used to pay energy bills.</li>
+				<li>To find out more information visit: https://www.gov.uk/guidance/council-tax-rebate-factsheet#what-is-the-council-tax-rebate </li>
+				<li>The types of grants available vary from county to county and so it is important to know what you are elegible for.</li>
+				<li>To do this you can go to: https://www.simpleenergyadvice.org.uk/grants and enter your postcode.</li>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* SUPPORT</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>SUPPORT *</pattern>
+			<template>
+				<srai>SUPPORT</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>TAX BAND</pattern>
+			<template>
+				<li>Your council tax band can vary from property to property. The band is chosen based on the value of your non-commercial property.</li>
+				<li>To find out what band your property is in, visit: https://www.gov.uk/council-tax-bands </li>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* TAX BAND</pattern>
+			<template>
+				<srai>TAX BAND</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>TAX BAND *</pattern>
+			<template>
+				<srai>TAX BAND</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>* TAX BAND *</pattern>
+			<template>
+				<srai>TAX BAND</srai>
+			</template>
+		</category>
+		
+	</topic>
+	
+</aiml>
